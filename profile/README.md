@@ -13,9 +13,3 @@
 - 저장소 내에있는 코드들은 참여인원끼리 공유할 수 있도록 공개(public)합니다.
 - 저장소 내에는 참여자들끼리 어떤 문제인지 알 수 있도록, 문제 번호또는 문제 이름을 파일명으로 하여 저장합니다.
 ---
-## 문제
-- [Week1 (자바 입출력 연습)]
-  - [2738번_행렬 덧셈](https://www.acmicpc.net/problem/2738)
-  - [11659_구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
-  - [10996번_별 찍기 - 21](https://www.acmicpc.net/problem/10996)
-  - [13015번_별 찍기 - 23](https://www.acmicpc.net/problem/13015)
